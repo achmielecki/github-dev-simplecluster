@@ -1,0 +1,1 @@
+docker exec -it mongodb-local-cluster_mongodb1_1 mongo
